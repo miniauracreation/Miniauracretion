@@ -1,0 +1,31 @@
+EMAILJS TEMPLATE
+
+Subject:
+Order Confirmed — Miniauracreation {{order_id}}
+
+To:
+{{to_email}}
+
+Reply-to:
+{{reply_to}}
+
+Body:
+Hi {{customer_name}},
+
+Thank you for ordering from Miniauracreation! ✨
+
+Your order {{order_id}} has been received.
+
+ORDER DETAILS
+{{order_items}}
+
+TOTAL: {{total}}
+
+Delivery details:
+{{address}}
+
+We will contact you on WhatsApp to confirm your order.
+
+Thank you for supporting handmade resin art. ❤️
+
+— Miniauracreation
